@@ -1,2 +1,2 @@
 # -WeddingInvitation
-wedding invitation card in html5
+wedding invitation card by html5
